@@ -27,7 +27,7 @@
 
 
 ### Examples:
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -93,7 +93,7 @@
 <h1>Main Heading</h1>
 <p>This is a paragraph.</p>
 <blockquote>“This is a quote.”</blockquote>
----
+```
 
 
 ---
@@ -143,7 +143,7 @@
   <dt>HTML</dt>
   <dd>A markup language for creating web pages.</dd>
 </dl>
----
+```
 
 
 ---
@@ -189,7 +189,7 @@
 <video controls>
   <source src="video.mp4" type="video/mp4">
 </video>
----
+```
 
 
 ---
