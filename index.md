@@ -27,7 +27,7 @@
 
 
 ### Examples:
-```html
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -37,7 +37,7 @@
   <h1>Welcome!</h1>
 </body>
 </html>
----
+```
 
 
 ---
@@ -71,7 +71,7 @@
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://example.com/seo-page">
 </head>
----
+```
 
 
 ---
@@ -165,7 +165,7 @@
   <a href="/home">Home</a>
   <a href="/about">About</a>
 </nav>
----
+```
 
 
 ---
@@ -214,7 +214,7 @@
   <input type="text" id="name" name="name">
   <button type="submit">Submit</button>
 </form>
----
+```
 
 
 ---
@@ -245,7 +245,7 @@
 <footer>
   <p>&copy; 2025 My Website</p>
 </footer>
----
+```
 
 
 ---
@@ -279,7 +279,7 @@
     </tr>
   </tbody>
 </table>
----
+```
 
 
 ---
