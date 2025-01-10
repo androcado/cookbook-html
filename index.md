@@ -7,10 +7,19 @@
 
 
 # Table of Contents
-- [1. Variables](#1-variables)
-- [2. Data Types](#2-data-types)
-- [3. Operators](#3-operators)
-  - [Arithmetic Operators](#arithmetic-operators)
+- [1. Basic Structure](#1-basic-structure)
+- [2. Metadata and SEO Tags](#2-metadata-and-seo-tags)
+- [3. Content Tags](#3-content-tags)
+- [4. Text Formatting](#4-text-formatting)
+- [5. Lists](#5-lists)
+- [6. Links and Navigation](#6-links-and-navigation)
+- [7. Multimedia](#7-multimedia)
+- [8. Forms](#8-forms)
+- [9. Semantic Elements](#9-semantic-elements)
+- [10. Tables](#10-tables)
+- [11. Scripts](#11-scripts)
+- [12. Deprecated Tags](#12-deprecated-tags)
+
 
 ---
 
@@ -99,7 +108,7 @@
 ---
 
 
-## **3. Text Formatting**
+## **4. Text Formatting**
 
 | **Tag**         | **Description**                                   |
 |---------------------|---------------------------------------------------|
@@ -116,7 +125,7 @@
 ---
 
 
-## **3. Text Formatting**
+## **5. Lists**
 
 | **Tag**         | **Description**                                   |
 |---------------------|---------------------------------------------------|
@@ -149,7 +158,7 @@
 ---
 
 
-## **4. Links and Navigation**
+## **6. Links and Navigation**
 
 | **Tag**         | **Description**                                   |
 |---------------------|---------------------------------------------------|
@@ -171,7 +180,7 @@
 ---
 
 
-## **5. Multimedia**
+## **7. Multimedia**
 
 | **Tag**         | **Description**                                   |
 |---------------------|---------------------------------------------------|
